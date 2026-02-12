@@ -6,7 +6,7 @@
 
 ---
 
-A portfolio-ready **data analytics project** for a mid-sized e-commerce company. It provides a centralized view of the sales funnel, product performance, and customer behavior to support marketing, product strategy, and UX decisions.
+A **data analytics project** for a mid-sized e-commerce company. It provides a centralized view of the sales funnel, product performance, and customer behavior to support marketing, product strategy, and UX decisions.
 
 ---
 
