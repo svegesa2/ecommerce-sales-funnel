@@ -1,0 +1,13 @@
+stage,count,conversion_from_visit_pct,conversion_from_previous_stage_pct,drop_off_from_previous_pct,device
+visit,1192,100.0,100.0,0.0,desktop
+signup,395,33.14,33.14,66.86,desktop
+add_to_cart,176,14.77,44.56,55.44,desktop
+purchase,103,8.64,58.52,41.48,desktop
+visit,1506,100.0,100.0,0.0,mobile
+signup,504,33.47,33.47,66.53,mobile
+add_to_cart,212,14.08,42.06,57.94,mobile
+purchase,108,7.17,50.94,49.06,mobile
+visit,302,100.0,100.0,0.0,tablet
+signup,109,36.09,36.09,63.91,tablet
+add_to_cart,44,14.57,40.37,59.63,tablet
+purchase,29,9.6,65.91,34.09,tablet

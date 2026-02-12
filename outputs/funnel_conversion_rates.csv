@@ -1,0 +1,5 @@
+stage,count,conversion_from_visit_pct,conversion_from_previous_stage_pct,drop_off_from_previous_pct
+visit,3000,100.0,100.0,0.0
+signup,1008,33.6,33.6,66.4
+add_to_cart,432,14.4,42.86,57.14
+purchase,240,8.0,55.56,44.44

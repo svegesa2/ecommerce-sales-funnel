@@ -1,0 +1,101 @@
+product_id,product_name,category,units_sold,revenue
+P00073,Product_73,Clothing,32,7492.16
+P00085,Product_85,Home & Garden,21,3544.17
+P00066,Product_66,Sports,16,1874.4
+P00031,Product_31,Electronics,24,1851.3600000000001
+P00095,Product_95,Beauty,22,1721.5
+P00042,Product_42,Clothing,22,1578.9399999999998
+P00078,Product_78,Toys,30,1440.3
+P00007,Product_7,Books,29,1256.28
+P00082,Product_82,Books,18,1180.6200000000001
+P00000,Product_0,Toys,32,945.6
+P00015,Product_15,Books,25,931.25
+P00024,Product_24,Sports,28,904.3999999999999
+P00080,Product_80,Toys,28,881.44
+P00035,Product_35,Books,26,849.1599999999999
+P00014,Product_14,Food & Beverage,17,713.66
+P00019,Product_19,Home & Garden,17,667.76
+P00046,Product_46,Food & Beverage,18,657.72
+P00027,Product_27,Clothing,15,609.3
+P00079,Product_79,Sports,20,600.6
+P00030,Product_30,Books,30,564.0
+P00025,Product_25,Beauty,9,558.1800000000001
+P00033,Product_33,Clothing,7,557.48
+P00056,Product_56,Food & Beverage,32,556.16
+P00013,Product_13,Home & Garden,21,532.98
+P00093,Product_93,Beauty,23,494.73
+P00001,Product_1,Sports,29,433.84000000000003
+P00065,Product_65,Clothing,20,395.6
+P00051,Product_51,Beauty,10,389.5
+P00010,Product_10,Home & Garden,21,377.37
+P00068,Product_68,Sports,22,364.98
+P00050,Product_50,Toys,25,342.25
+P00076,Product_76,Sports,29,339.01
+P00040,Product_40,Home & Garden,36,336.96
+P00018,Product_18,Food & Beverage,18,326.34
+P00084,Product_84,Toys,13,320.32
+P00032,Product_32,Sports,26,303.42
+P00041,Product_41,Toys,16,299.2
+P00075,Product_75,Clothing,17,297.33
+P00049,Product_49,Beauty,13,293.15000000000003
+P00098,Product_98,Beauty,9,291.06000000000006
+P00047,Product_47,Toys,16,289.12
+P00008,Product_8,Toys,15,276.0
+P00038,Product_38,Electronics,20,272.0
+P00067,Product_67,Electronics,18,270.36
+P00088,Product_88,Sports,19,260.87
+P00021,Product_21,Books,26,253.5
+P00091,Product_91,Sports,19,251.37
+P00062,Product_62,Books,30,242.10000000000002
+P00059,Product_59,Books,26,238.94
+P00071,Product_71,Clothing,20,236.00000000000003
+P00069,Product_69,Beauty,21,233.94
+P00028,Product_28,Food & Beverage,12,225.60000000000002
+P00036,Product_36,Sports,16,216.32
+P00072,Product_72,Electronics,16,209.6
+P00058,Product_58,Home & Garden,15,183.9
+P00057,Product_57,Electronics,11,183.26
+P00011,Product_11,Toys,23,176.41
+P00002,Product_2,Books,16,169.6
+P00017,Product_17,Food & Beverage,20,168.2
+P00054,Product_54,Toys,22,167.42000000000002
+P00003,Product_3,Toys,19,161.31
+P00081,Product_81,Sports,32,160.0
+P00053,Product_53,Sports,19,156.18
+P00055,Product_55,Sports,31,155.0
+P00077,Product_77,Sports,31,155.0
+P00064,Product_64,Toys,15,150.6
+P00026,Product_26,Beauty,13,145.21
+P00074,Product_74,Books,15,145.05
+P00006,Product_6,Books,20,140.2
+P00060,Product_60,Home & Garden,26,130.0
+P00022,Product_22,Clothing,26,130.0
+P00034,Product_34,Beauty,25,125.0
+P00061,Product_61,Toys,17,124.94999999999999
+P00096,Product_96,Clothing,24,120.0
+P00097,Product_97,Sports,14,115.91999999999999
+P00070,Product_70,Clothing,23,115.0
+P00089,Product_89,Clothing,16,106.56
+P00009,Product_9,Clothing,21,105.0
+P00016,Product_16,Sports,20,100.0
+P00086,Product_86,Beauty,19,95.0
+P00099,Product_99,Books,19,95.0
+P00037,Product_37,Electronics,11,93.61
+P00090,Product_90,Food & Beverage,18,90.0
+P00083,Product_83,Food & Beverage,18,90.0
+P00052,Product_52,Home & Garden,17,89.25
+P00063,Product_63,Electronics,17,85.0
+P00048,Product_48,Beauty,13,83.85000000000001
+P00039,Product_39,Home & Garden,16,80.0
+P00023,Product_23,Food & Beverage,16,80.0
+P00020,Product_20,Beauty,11,75.46000000000001
+P00092,Product_92,Clothing,14,70.0
+P00005,Product_5,Food & Beverage,13,66.82
+P00045,Product_45,Sports,10,66.69999999999999
+P00087,Product_87,Electronics,10,61.699999999999996
+P00044,Product_44,Sports,12,60.0
+P00043,Product_43,Food & Beverage,9,58.86
+P00094,Product_94,Beauty,11,55.0
+P00029,Product_29,Sports,9,50.58
+P00004,Product_4,Home & Garden,8,40.0
+P00012,Product_12,Home & Garden,6,32.46
