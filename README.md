@@ -1,8 +1,8 @@
 # E-Commerce Sales Funnel & Product Insights
 
-[![Live Dashboard](https://img.shields.io/badge/📊_Live_Dashboard-View_here-FF4B4B?style=for-the-badge&logo=streamlit)](https://YOUR-APP-NAME.streamlit.app)
+[![Live Dashboard](https://img.shields.io/badge/📊_Live_Dashboard-View_here-FF4B4B?style=for-the-badge&logo=streamlit)](https://ecommerce-sales-funnel.streamlit.app/)
 
-**→ [View live interactive dashboard](https://YOUR-APP-NAME.streamlit.app)** *(replace with your deployed link after deployment)*
+**→ [View live interactive dashboard](https://ecommerce-sales-funnel.streamlit.app/)** *(replace with your deployed link after deployment)*
 
 ---
 
